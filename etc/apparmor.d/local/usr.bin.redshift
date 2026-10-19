@@ -1,0 +1,5 @@
+# Redshift hooks
+owner /home/andrey/.config/redshift/hooks/ r,
+owner /home/andrey/.config/redshift/hooks/* rux,
+
+
